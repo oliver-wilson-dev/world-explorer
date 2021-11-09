@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  margin: 40px;
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: #1d3557;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: relative;
+  flex-basis: 30%;
+}
+
+.app-name {
+  position: absolute;
+  top: 25px;
+  text-shadow: -4px 3px 0 #1d3557;
+  font-size: 28px;
+}
+
+.earth {
+  width: 80px;
+  position: absolute;
+  top: 0px;
+  opacity: 0.9;
+}
+
+@media screen and (min-width: 768px) {
+  .earth {
+    width: 140px;
+  }
+
+  .app-name {
+    top: 45px;
+    font-size: 44px;
+  }
+
+  .App-header {
+    height: 200px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .App {
+    margin: 50px 50px 100px 50px;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+}

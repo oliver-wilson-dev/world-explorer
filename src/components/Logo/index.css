@@ -1,0 +1,37 @@
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 150px;
+    height: 100%;
+}
+
+.app-name {
+    position: absolute;
+    top: 25px;
+    text-shadow: -4px 3px 0 #1d3557;
+    font-size: 28px;
+  }
+  
+.earth {
+    width: 80px;
+    position: absolute;
+    top: 0px;
+    opacity: 0.9;
+}
+  
+  @media screen and (min-width: 768px) {
+    .earth {
+      width: 140px;
+    }
+  
+    .app-name {
+      top: 45px;
+      font-size: 44px;
+    }
+
+    .logo {
+      margin: 100px 150px;
+  }
+  }

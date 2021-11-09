@@ -1,0 +1,14 @@
+{
+    "root": true,
+    "plugins": ["prettier"],
+    "extends": [
+        "eslint:recommended",
+        "react-app",
+        "react-app/jest",
+        "prettier",
+        "plugin:prettier/recommended"
+    ],
+    "rules": {
+        "prettier/prettier": "error"
+    }
+}

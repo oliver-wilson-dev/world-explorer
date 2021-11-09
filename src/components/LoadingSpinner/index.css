@@ -1,0 +1,27 @@
+.loading-spinner-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    flex-grow: 1;
+}
+
+.loading-spinner {
+    width: 100px;
+    height: 100px;
+}
+
+@media screen and (min-width: 768px) {
+    .loading-spinner {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .loading-spinner-container {
+        flex-basis: 70%;
+        box-sizing: border-box;
+    }
+}
