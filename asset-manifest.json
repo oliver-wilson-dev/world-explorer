@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/world-explorer/static/css/main.f16e160d.chunk.css",
+    "main.js": "/world-explorer/static/js/main.d1bfbb46.chunk.js",
+    "main.js.map": "/world-explorer/static/js/main.d1bfbb46.chunk.js.map",
+    "runtime-main.js": "/world-explorer/static/js/runtime-main.02b2375c.js",
+    "runtime-main.js.map": "/world-explorer/static/js/runtime-main.02b2375c.js.map",
+    "static/css/2.383c0125.chunk.css": "/world-explorer/static/css/2.383c0125.chunk.css",
+    "static/js/2.14a6412b.chunk.js": "/world-explorer/static/js/2.14a6412b.chunk.js",
+    "static/js/2.14a6412b.chunk.js.map": "/world-explorer/static/js/2.14a6412b.chunk.js.map",
+    "index.html": "/world-explorer/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/world-explorer/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.f16e160d.chunk.css.map": "/world-explorer/static/css/main.f16e160d.chunk.css.map",
+    "static/js/2.14a6412b.chunk.js.LICENSE.txt": "/world-explorer/static/js/2.14a6412b.chunk.js.LICENSE.txt",
+    "static/media/earth.cc47e05a.png": "/world-explorer/static/media/earth.cc47e05a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02b2375c.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.14a6412b.chunk.js",
+    "static/css/main.f16e160d.chunk.css",
+    "static/js/main.d1bfbb46.chunk.js"
+  ]
+}
